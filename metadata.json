@@ -1,0 +1,8 @@
+{
+  "name": "UART Log RootCause",
+  "description": "Serial & telemetry log anomaly analyzer for microcontroller logs, sensor CSV dumps, and crash traces with synchronized waveforms and AI root cause diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
